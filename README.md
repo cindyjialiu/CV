@@ -1,4 +1,4 @@
-## Your Name
+## Cindy Liu
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
 
@@ -23,7 +23,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (01/2018 to 05/2018)
 
 - Curious and passionate about code. [PROVIDE EVIDENCE]
 - Fast, independent learner [PROVIDE EVIDENCE]
@@ -34,9 +34,9 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+####University of Southampton (07/2012 to 09/2013)
 
-- Subject, any specialisms
+- Fashion and Textile Marketing
 - Grade
 - Other cool stuff
 
@@ -44,7 +44,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**Twin Wholesale Ltd** (01/2016 to 09/2017)    
+*Buying and Production Manager*  
+**Bgirl Ltd** (01/2014 to 07/2015)   
+*Fashion designer*  
