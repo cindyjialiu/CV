@@ -1,70 +1,77 @@
-## Cindy Liu <a href="https://www.linkedin.com/in/cindy-liu-711ba870/"><img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="50" height="35" width="35"></a> <a href="https://twitter.com/CindyLiuOnTech"><img src="http://goinkscape.com/wp-content/uploads/2015/07/twitter-logo-final.png" alt="twitter" hspace="40" height="32" width="32"></a>
+## Cindy Liu <a href="https://www.linkedin.com/in/cindy-liu-711ba870/"><img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" height="35" width="35"></a> <a href="https://twitter.com/CindyLiuOnTech"><img src="http://goinkscape.com/wp-content/uploads/2015/07/twitter-logo-final.png" alt="twitter" hspace="40" height="32" width="32"></a>
 I am a Full-Stack Software Developer who recently made a life switch from fashion into the world of coding.
 
 After spending four years working as a fashion designer and buyer I was ready for a new world of challenges with more uncertainty and creativity. I knew that I enjoyed solving problems and also love creating new things, and after trying UX Design, I discovered my true interest is the endless and full of possibilities programming world. Since then I haven't looked back and regardless of the ups and downs I can’t wait to learn something new about this every day.
 
 Along with the technical side, something I have found especially interesting is how people relate to software development.  I have heard the expression “there’s more than one way to skin a cat” and it seems that applies more than ever in software development.  Software is as much about computers as architecture is about buildings - actually it’s how people use them that is important.
 
-I'd like to work at a diverse and innovative environment where I can learn lot to further my study and bring ideas to life.
+I'd like to work at a diverse and innovative environment where I can learn a lot to further my study and bring ideas to life.
 
 
 ## Projects
-| Project       | Summary     | Technologies| Testing | Live    |
-| ------------- |-------------| ------------|---------|---------|
-| [Acebook](https://github.com/cindyjialiu/acebook)| A group project of a social network app built within 2 weeks, we started with zero knowledge of Rails and AWS, managed to  | Ruby, Rails, JavaScript, jQuary, AWS, S3 bucket, HTML/CSS| RSpec, Capybara | [AWS] |
-| [MakersandBreakers](https://github.com/cindyjialiu/MakersBNB)| A group project of a social network app built within 4 days| JavaScript, jQuary, Express, MongoDB, HTML/CSS | Jasmine | N/A |
-| [Bowling Score Calcultor](https://github.com/cindyjialiu/bowling-challenge)|||||
-| [News Collector](https://github.com/cindyjialiu/news-summary-challenge)| A weekend solo project of a single page app    | JavaScript, jQuary, AJAX, HTML/CSS| Jasmine, HTML/CSS | [Heroku] |
-| [Rock, Paper, Scissors](https://github.com/cindyjialiu/rps-challenge)||||||
+| Project       | Description    | Technologies| Testing | Deployment|
+| ------------- |----------------| ------------|---------|-----|
+| [ApexAir](https://github.com/cindyjialiu/ApexAir)| An Augmented Reality App displays air pollution level with 2D emojis.(9 days group project) | XCode, Swift, GPS API | XCTest |N/A|
+| [Acebook](https://github.com/cindyjialiu/acebook)| A social network app built within 2 weeks, started with zero knowledge of Rails and AWS.(2 weeks group project)| Ruby, Rails, JavaScript, jQuary, AWS, S3 bucket, HTML/CSS| RSpec, Capybara | [AWS](http://acebook-fullstaxx-env.muc2hwru9t.eu-west-2.elasticbeanstalk.com/users/sign_in) |
+| [Bowling Score Calculator](https://github.com/cindyjialiu/bowling-challenge)|A client side bowling score calculator(Weekend solo challenge)|JavaScript, jQuary, HTML/CSS|Jasmine|In progress|
+| [News Collector](https://github.com/cindyjialiu/news-summary-challenge)| A single page application, get news headlines from Guardian's API and summaries from Aylien API.(Weekend solo challenge)    | JavaScript, jQuary, AJAX, HTML/CSS| Jasmine | [Heroku] |
+| [Rock, Paper, Scissors](https://github.com/cindyjialiu/rps-challenge)|A |Ruby, Sinatra, HTML/CSS|RSpec, Capybara|[Heroku]()||
 
 
 ## Skills
 
-#### Problem solving
+#### Problem solving / Great communication
 <!--
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed. -->
 
-As a buyer, my main responsibility was liaising with clients and manufacturers to make sure everything is going smoothly. which requires strong problem solving skills, as sometimes working with less experienced manufacturers, anything can happen without warning. So I have already developed the ability to breaking down tough issues, and make decisions and carry out plans quickly that take others’ needs into account in order to keep a good relationship.  It turns out, this skill is very important in software development to progress efficiently.
+As a buyer, I made sure everything was going well with both clients and suppliers. Due to price constraints, many of the people involved were inexperienced which meant I needed to get to the bottom of emerging issues and solve them before they had an impact. As a result I have already developed the ability to break down tough issues, make decisions and carry out plans quickly that take others’ needs into account in order to keep a good relationship.
 
-- Experience
-- Achievements
-- Evidence
+In one case I was leading a team of two and showed my colleague when and how to organise a container delivery.  Unfortunately she forgot to check everything correctly, meaning one week before the ship date the container was only part full.  As an immediate fix I got one of our regular suppliers to fill the space with stock items, and to solve the underlying problem and improve communication I created a container checklist to prevent similar issues in future.
 
 #### Fast, independent learner
 
-- With the start of zero knowledge of programming, I taught myself Ruby basics within less than 2 months time and able to write and solve simple programming logics.
-- During the 16 weeks intensive course at Makers, I've learnt how the full stack development process works, which involves in Ruby, JavaScript, testing framework, library, database connection and HTML/CSS. I've successfully built the clone version of twitter and Instagram from scratch while I was learning.
+At the start of December 2017 I had zero knowledge of programming, then I taught myself Ruby basics in less than 2 months in order to solve simple programming challenges.
+
+During the 16 week course at Makers, I've learnt how the full stack development process works, which includes a series of programming languages, testing frameworks, libraries, database and a few tools of deployment. I've successfully built a numbers of applications, including the clone version of twitter and Instagram from scratch while I was learning.  I always want to understand the reasoning fully before moving on, this means I’ve become a key helper for many fellow students.
+
+#### Great collaborator
+I highly believe great team work plays a key role of achieving tasks in an efficient way.
+
+During our final project at Makers, I always helped and explained all the team members for the questions or any unclear points they had and made sure they understood everything properly. I have been highly complimented on being a super patient team player.
 
 #### Attention to details
 
-I have been told many times by my previous colleagues and managers that I have very good eyes on details, which really helped me on minimise the risk on a few projects.
-- During one of the group projects at Makers, we encountered an unclear deploy error issue and after a couple days hard working on fixing, it started working but I noticed one of our teammates turned the core part of the test checking off.
+I have been told many times by my previous colleagues and managers that I have very good eyes on details, which really helped me on minimise the risk on many projects.
 
-#### Great communicator
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+During one of the group projects at Makers, we encountered an unclear error issue from deployment and after a couple of days hard working on fixing, it started working. But as we were all at junior level and none of us was really clear on how things work behind the scene. I decided to look into more details and gain better understandings, I realised actually  someone turned a core test checking setting off to avoid the error message and the real issue wasn't that.
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+## Experience
 
-#### Great collaborator
-- I have been working in various
+**Twin Wholesale Ltd** (January 2016 to September 2017)    
+*Buying and Production Manager*  
+- Professional knowledge across fashion products, trimmings, garments and hard accessories.
+- Sourcing and developing new products from Far East
+- Managing production coordinators in both the UK and China
+- Managing Sourcing Team by working closely with Sales Team and the Design Team
+- Building and developing long-term strong relationships with suppliers
+
+**Bgirl Fashion Ltd** (January 2014 to July 2015)   
+*Fashion designer*
 
 ## Education
 
 #### Makers Academy (January 2018 to May 2018)
-
-- A 16-week intensive coding bootcamp.
+*A 16-week intensive coding bootcamp*
 - TDD, OOP, OOD, BDD
 - Agile, XP values, MVP
-- Pair-Programming, Mobbing
+- Pair Programming, Mobbing
 - JavaScript, Express, Node.js
-- Ruby, Rails
+- Ruby, Rails, Sinatra
 - HTML, CSS
 - RSpec, Jasmine, Capybara, Selenium
 - Git, Github
 - SQL, MySQL, PostgreSQL, MongoDB
+- Heroku, AWS
 
 #### University of Southampton (August 2012 to September 2013)
 
@@ -76,14 +83,8 @@ I refined my analytical and critical appraisal skills through my essay based cou
 - Fashion Design and Engineering
 - BA 2:1
 
-## Experience
-
-**Twin Wholesale Ltd** (January 2016 to September 2017)    
-*Buying and Production Manager*  
-**Bgirl Fashion Ltd** (January 2014 to July 2015)   
-*Fashion designer*  
-
 ## Interests
-- Swimming - Enjoy the feeling when I
-- Cooking - I could spend the whole day in the kitchen and making different cuisines
-- Baking - Love the
+- Swimming - I have been doing swimming since I was 6 years old and always enjoy it
+- Cooking and Baking - I could spend the whole day in the kitchen and making different cuisines and desserts
+- Home Design
+- Gardening - Loving plants and the nature
