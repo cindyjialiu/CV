@@ -14,8 +14,8 @@ I'd like to work at a diverse and innovative environment where I can learn a lot
 | [ApexAir](https://github.com/cindyjialiu/ApexAir)| An Augmented Reality App displays air pollution level with 2D emojis.(9 days group project) | XCode, Swift, GPS API | XCTest |N/A|
 | [Acebook](https://github.com/cindyjialiu/acebook)| A social network app built within 2 weeks, started with zero knowledge of Rails and AWS.(2 weeks group project)| Ruby, Rails, JavaScript, jQuary, AWS, S3 bucket, HTML/CSS| RSpec, Capybara | [AWS](http://acebook-fullstaxx-env.muc2hwru9t.eu-west-2.elasticbeanstalk.com/users/sign_in) |
 | [Bowling Score Calculator](https://github.com/cindyjialiu/bowling-challenge)|A client side bowling score calculator(Weekend solo challenge)|JavaScript, jQuary, HTML/CSS|Jasmine|In progress|
-| [News Collector](https://github.com/cindyjialiu/news-summary-challenge)| A single page application, get news headlines from Guardian's API and summaries from Aylien API.(Weekend solo challenge)    | JavaScript, jQuary, AJAX, HTML/CSS| Jasmine | [Heroku] |
-| [Rock, Paper, Scissors](https://github.com/cindyjialiu/rps-challenge)|A |Ruby, Sinatra, HTML/CSS|RSpec, Capybara|[Heroku]()||
+| [News Collector](https://github.com/cindyjialiu/news-summary-challenge)| A single page application, get news headlines from Guardian's API and summaries from Aylien API.(Weekend solo challenge)    | JavaScript, jQuary, AJAX, HTML/CSS| Jasmine | In progress |
+<!-- | [Rock, Paper, Scissors](https://github.com/cindyjialiu/rps-challenge)|A |Ruby, Sinatra, HTML/CSS|RSpec, Capybara|[Heroku]()|| -->
 
 
 ## Skills
@@ -37,7 +37,7 @@ During the 16 week course at Makers, I've learnt how the full stack development 
 #### Great collaborator
 I highly believe great team work plays a key role of achieving tasks in an efficient way.
 
-During our final project at Makers, I always helped and explained all the team members for the questions or any unclear points they had and made sure they understood everything properly. I have been highly complimented on being a super patient team player.
+During our final project at Makers, I always helped and explained all the team members for the questions or any unclear points they had and made sure everyone understood all the work we did properly. I have been highly complimented on being a super patient team player.
 
 #### Attention to details
 
