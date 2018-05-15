@@ -17,6 +17,7 @@ I'd like to work at a diverse and innovative environment where I can learn a lot
 | [Acebook](https://github.com/cindyjialiu/acebook)| A social network app built within 2 weeks, started with zero knowledge of Rails and AWS.(2 weeks group project)| Ruby, Rails, JavaScript, jQuary, AWS, S3 bucket, HTML/CSS| RSpec, Capybara | [AWS](http://acebook-fullstaxx-env.muc2hwru9t.eu-west-2.elasticbeanstalk.com/users/sign_in) |
 | [Bowling Score Calculator](https://github.com/cindyjialiu/bowling-challenge)|A client side bowling score calculator(Weekend solo challenge)|JavaScript, jQuary, HTML/CSS|Jasmine|In progress|
 | [News Collector](https://github.com/cindyjialiu/news-summary-challenge)| A single page application, get news headlines from Guardian's API and summaries from Aylien API.(Weekend solo challenge)    | JavaScript, jQuary, AJAX, HTML/CSS| Jasmine | In progress |
+| [Bank tech test](https://github.com/cindyjialiu/bank_tech_test)|A command line bank account, can add deposit, withdraw money and print statement.(Week10 solo challenge)| Ruby | RSpec | N/A |
 <!-- | [Rock, Paper, Scissors](https://github.com/cindyjialiu/rps-challenge)|A |Ruby, Sinatra, HTML/CSS|RSpec, Capybara|[Heroku]()|| -->
 
 
